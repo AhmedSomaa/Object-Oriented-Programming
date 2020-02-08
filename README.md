@@ -6,6 +6,10 @@
 
 ## 📚 Table of Contents
 
-- [Object-Oriented in C++](https://github.com/AhmedSomaa/Object-Oriented-Programming/tree/master/c%2B%2B)
+- [Object-Oriented in C++](https://github.com/AhmedSomaa/Object-Oriented-Programming/tree/master/c-plus-plus)
+
+- [Object-Oriented in Java](https://github.com/AhmedSomaa/Object-Oriented-Programming/tree/master/java)
+
+- [Object-Oriented in Python](https://github.com/AhmedSomaa/Object-Oriented-Programming/tree/master/python)
 
 
