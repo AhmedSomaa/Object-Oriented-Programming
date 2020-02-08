@@ -5,4 +5,4 @@
 
 `Class UML Diagram`
 
-![Rectangle Class UML](../_images/project-1-uml.svg)
+![Rectangle Class UML](../_images/project-01-uml.svg)

@@ -3,4 +3,4 @@ project(00_first_class)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(00_first_class main.cpp rectangle.cpp rectangle.h)
+add_executable(project-01 main.cpp rectangle.cpp rectangle.h)
