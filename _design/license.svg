@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150.25" height="35.059">
+    <g shape-rendering="crispEdges">
+        <rect x="0" y="0" width="106" height="35.059" fill="#1c1c1d"/>
+        <rect x="106" y="0" width="300" height="35.059" fill="#055383"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="100"> 
+        <text x="530" y="220" font-weight="bold" transform="scale(.1)" textLength="900">LICENSE</text>
+        <text x="1280" y="220" font-weight="bold" transform="scale(.1)" textLength="300">MIT</text>
+    </g>
+</svg>

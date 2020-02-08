@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290.25" height="35.059">
+    <g shape-rendering="crispEdges">
+        <rect x="0" y="0" width="106" height="35.059" fill="#c1d72f"/>
+        <rect x="106" y="0" width="300" height="35.059" fill="#5d9741"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="100"> 
+        <text x="530" y="220" font-weight="bold" transform="scale(.1)" textLength="900">CONTAINS</text>
+        <text x="1790" y="220" font-weight="bold" transform="scale(.1)" textLength="1300">OBJECT-ORIENTED</text>
+        <svg 
+            xmlns="http://www.w3.org/2000/svg" x="255px" y="5px"
+            width="24" height="24"
+            viewBox="0 0 172 172"
+            style=" fill:#000000;">
+            <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+                <path d="M0,172v-172h172v172z" fill="none"></path>
+                <g fill="#ffffff">
+                    <path d="M157.595,49.73667c0,-0.71667 -0.215,-1.43333 -0.50167,-2.15c0,-0.07167 0,-0.215 -0.07167,-0.35833c0,-0.07167 -0.14333,-0.14333 -0.215,-0.28667c-0.28667,-0.645 -0.71667,-1.21833 -1.21833,-1.72c-0.07167,-0.07167 -0.14333,-0.215 -0.28667,-0.35833c-0.57333,-0.50167 -1.21833,-0.93167 -1.86333,-1.21833l-64.5,-28.66667c-1.86333,-0.86 -4.01333,-0.86 -5.87667,0l-64.5,28.66667c-0.71667,0.28667 -1.29,0.71667 -1.86333,1.21833c-0.14333,0.14333 -0.215,0.28667 -0.28667,0.35833c-0.50167,0.50167 -0.93167,1.075 -1.21833,1.72c-0.07167,0.14333 -0.215,0.215 -0.215,0.28667c-0.07167,0.14333 -0.07167,0.28667 -0.07167,0.35833c-0.28667,0.71667 -0.50167,1.43333 -0.50167,2.15c0,0.14333 -0.07167,0.215 -0.07167,0.35833v71.73833c0,2.86667 1.64833,5.375 4.22833,6.52167l64.5,28.66667c0.07167,0 0.07167,0 0.07167,0.07167c0.86,0.35833 1.86333,0.57333 2.86667,0.57333c1.00333,0 2.00667,-0.215 2.86667,-0.57333c0,-0.07167 0,-0.07167 0.07167,-0.07167l64.5,-28.66667c2.58,-1.14667 4.22833,-3.655 4.22833,-6.52167v-71.73833c0,-0.14333 -0.07167,-0.215 -0.07167,-0.35833zM78.83333,139.46333l-50.16667,-22.28833v-55.97167l50.16667,22.28833zM86,71.02167l-46.87,-20.855l46.87,-20.855l46.87,20.855z"></path>
+                </g>
+            </g>
+        </svg>
+    </g>
+</svg>
