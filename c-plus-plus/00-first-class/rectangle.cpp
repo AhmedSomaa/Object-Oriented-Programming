@@ -7,7 +7,7 @@
 Rectangle::Rectangle() {}
 
 /**
- * Create a rectangle.
+ * Create a rectangle with the specified dimensions.
  * @param {float} length - the length value.
  * @param {float} width - the width value.
  */
@@ -33,7 +33,7 @@ void Rectangle::setWidth(float width) {
  * @return {void}
  */
 void Rectangle::setLength(float length) {
-    if(length) {
+    if(length >= 0) {
         this->length = length;
     } else {
         std::cerr << "[Error] Length value cannot be negative, please enter a positive value.";
