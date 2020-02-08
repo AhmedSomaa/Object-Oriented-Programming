@@ -6,6 +6,6 @@
 
 ## 📚 Table of Contents
 
-- [Object-Oriented in C++](https://github.com/LeCoupa/awesome-cheatsheets/tree/master/c++)
+- [Object-Oriented in C++](https://github.com/AhmedSomaa/Object-Oriented-Programming/tree/master/c%2B%2B)
 
 
