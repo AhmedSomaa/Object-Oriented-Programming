@@ -1,7 +1,7 @@
 #ifndef RECTANGLE_H
 #define RECTANGLE_H
 
-
+/** Class representing a rectangle. */
 class Rectangle {
 private:
     float width;
