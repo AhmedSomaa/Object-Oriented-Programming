@@ -1,5 +1,5 @@
-#ifndef INC_00_FIRST_CLASS_RECTANGLE_H
-#define INC_00_FIRST_CLASS_RECTANGLE_H
+#ifndef RECTANGLE_H
+#define RECTANGLE_H
 
 
 class Rectangle {
