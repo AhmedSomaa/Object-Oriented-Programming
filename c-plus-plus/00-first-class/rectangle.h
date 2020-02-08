@@ -9,6 +9,7 @@ private:
 
 public:
     /* Constructor */
+    Rectangle();
     Rectangle(float length, float width);
 
     /* Setters */

@@ -1,4 +1,10 @@
+#include <iostream>
 #include "rectangle.h"
+
+/**
+ * Create an empty rectangle.
+ */
+Rectangle::Rectangle() {}
 
 /**
  * Create a rectangle.
@@ -15,7 +21,11 @@ Rectangle::Rectangle(float length, float width){
  * @return {void}
  */
 void Rectangle::setWidth(float width) {
-    this->width = width;
+    if(width >= 0) {
+        this->width = width;
+    } else {
+        std::cerr << "[Error] Width value cannot be negative, please enter a positive value.";
+    }
 }
 
 /**
@@ -23,7 +33,11 @@ void Rectangle::setWidth(float width) {
  * @return {void}
  */
 void Rectangle::setLength(float length) {
-    this->length = length;
+    if(length) {
+        this->length = length;
+    } else {
+        std::cerr << "[Error] Length value cannot be negative, please enter a positive value.";
+    }
 }
 
 /**
