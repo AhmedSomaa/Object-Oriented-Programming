@@ -47,3 +47,8 @@
 >
 > For example: A Ford car and a Toyota car are both Cars, so they can be classified as belonging to the Car class. All have same movement (methods) but different in models (properties).
 
+
+---
+## 🔖 Material
+
+- [Difference Between Class & Object.](http://net-informations.com/faq/oops/classobject.htm)
