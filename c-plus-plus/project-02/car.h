@@ -3,7 +3,7 @@
 
 #include <string>
 
-/** Class representing a rectangle. */
+/** Class representing a car. */
 class Car {
 private:
     std::string model;
