@@ -12,6 +12,10 @@ private:
     std::string fuelType;
 
 public:
+    /* Constructors */
+    Car();
+    Car(std::string model, std::string color, std::string makeYear, std::string fuelType);
+
     /* Setters */
     void setModel(std::string model);
     void setColor(std::string color);
