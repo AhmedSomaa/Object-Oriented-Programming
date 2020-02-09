@@ -5,7 +5,23 @@
 
 > 🖮  All the projects are developed using the standard version of C++ which is (C++17).
 
-`Material`
+> ⚠️ All projects are developed by separating the class into two files:
+>
+> - __Header File - classname.h__
+>   - Contains the declaration of all the class members.
+>   - Only attributes declaration and methods prototypes.
+>
+> - __Implementation File - classname.cpp__
+>   - Contains the implementation of the class methods.
+>
+> - __Driver (Client) Code - main.cpp__
+>   - is the one that includes the main code that tests our classes.
+
+
+
+---
+## 🔖 Material
+
 
 - 🌐  [Object Oriented Programming in C++](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/). 
 
