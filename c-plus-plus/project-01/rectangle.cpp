@@ -2,21 +2,6 @@
 #include "rectangle.h"
 
 /**
- * Create an empty rectangle.
- */
-Rectangle::Rectangle() {}
-
-/**
- * Create a rectangle with the specified dimensions.
- * @param {float} length - the length value.
- * @param {float} width - the width value.
- */
-Rectangle::Rectangle(float length, float width){
-    this->width = width;
-    this->length = length;
-}
-
-/**
  * Sets the width value.
  * @return {void}
  */

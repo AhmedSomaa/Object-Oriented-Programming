@@ -8,10 +8,6 @@ private:
     float length;
 
 public:
-    /* Constructor */
-    Rectangle();
-    Rectangle(float length, float width);
-
     /* Setters */
     void setWidth(float width);
     void setLength(float length);

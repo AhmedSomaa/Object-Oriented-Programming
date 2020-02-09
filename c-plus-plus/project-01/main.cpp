@@ -16,15 +16,5 @@ int main() {
     std::cout << "Length:: " << rectangle.getLength() << "\n";
     std::cout << "Area:: " << rectangle.getArea() << "\n\n";
 
-
-    /**
-     * Create a rectangle using overloaded constructor.
-     */
-    Rectangle Box(80, 40);
-    std::cout << "Second Rectangle Details\n========================\n";
-    std::cout << "Width:: " << Box.getWidth() << "\n";
-    std::cout << "Length:: " << Box.getLength() << "\n";
-    std::cout << "Area:: " << Box.getArea() << "\n";
-
     return 0;
 }
