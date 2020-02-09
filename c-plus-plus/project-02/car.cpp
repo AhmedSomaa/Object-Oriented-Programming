@@ -26,6 +26,13 @@ Car::Car(std::string model, std::string color, std::string makeYear, std::string
 }
 
 /**
+ * Class Destructor.
+ * Deletes a car object.
+ */
+Car::~Car() {
+}
+
+/**
  * Sets the car model value.
  * @param {string} model - The car model value.
  * @return {void}

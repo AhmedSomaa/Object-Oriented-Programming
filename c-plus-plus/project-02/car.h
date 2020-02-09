@@ -16,6 +16,9 @@ public:
     Car();
     Car(std::string model, std::string color, std::string makeYear, std::string fuelType);
 
+    /* Destructor */
+    ~Car();
+
     /* Setters */
     void setModel(std::string model);
     void setColor(std::string color);
