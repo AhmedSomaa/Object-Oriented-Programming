@@ -29,3 +29,27 @@ ___
 - They may not return any values.
 
 - They are typically _public_.
+
+`💡 Initialization List`
+
+- Initialization List is used in initializing the data members of a class. The list of members to be initialized is indicated with constructor as a comma-separated list followed by a colon.
+
+> Initialization list is more efficient in initializing class data members.
+
+- Initialization lists allow you to choose which constructor is called and what arguments that constructor receives.
+
+- If you have a reference or a const field, or if one of the classes used does not have a default constructor, you must use an initialization list.
+
+`💡 Destructor`
+
+- A __destructor__ is a special method that is _automatically_ called when an object life time is ended.
+
+- Like constructors, destructors don't have a return value.
+
+- The most common use of destructors is to deallocate memory that was allocated for the object by the constructor.
+
+
+---
+## 🔖 Material
+
+- [Understanding Initialization Lists in C++.](https://www.cprogramming.com/tutorial/initialization-lists-c++.html)

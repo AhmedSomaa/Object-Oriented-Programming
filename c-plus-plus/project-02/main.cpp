@@ -4,17 +4,26 @@
 int main()
 {
     /**
-     * Create a car object with empty constructor.
-     * Need to use the setter methods to add the car info.
+     * Create a car object with the default data member
+     * values set by the default constructor.
      */
 
     Car car_1;
+    std::cout << "Just bought a " << car_1.getColor() << " "  << car_1.getModel();
+    std::cout << " " << car_1.getMakeYear() << " that uses " << car_1.getFuelType() << ".\n";
+    car_1.start();
+    car_1.stop();
+
+    /**
+     * to alter these default values,
+     * we need to use the class member methods
+     */
     car_1.setModel("Volkswagen Polo");
     car_1.setColor("red");
     car_1.setMakeYear("2017");
     car_1.setFuelType("Petrol");
 
-    std::cout << "Just bought a " << car_1.getColor() << " "  << car_1.getModel();
+    std::cout << "\nJust bought a " << car_1.getColor() << " "  << car_1.getModel();
     std::cout << " " << car_1.getMakeYear() << " that uses " << car_1.getFuelType() << ".\n";
     car_1.start();
     car_1.stop();

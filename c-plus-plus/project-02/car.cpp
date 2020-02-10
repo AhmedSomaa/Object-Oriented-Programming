@@ -6,7 +6,10 @@
  * Empty Constructor.
  * Create a car.
  */
-Car::Car() {}
+Car::Car(): model("Volkswagen"), color("Red"), makeYear("2020"), fuelType("Natural Gas")
+{
+    std::cout << "Default Car Constructor Called\n";
+}
 
 /**
  * Overloaded Constructor
