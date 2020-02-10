@@ -3,8 +3,9 @@
 #include "car.h"
 
 /**
- * Empty Constructor.
+ * Default Constructor.
  * Create a car.
+ * Initializes the car data members using an initialization list.
  */
 Car::Car(): model("Volkswagen"), color("Red"), makeYear("2020"), fuelType("Natural Gas")
 {

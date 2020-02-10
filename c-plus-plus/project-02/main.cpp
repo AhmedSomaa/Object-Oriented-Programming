@@ -31,7 +31,7 @@ int main()
 
     /**
      * Create a car object with overloaded constructor.
-     * Dont' need to use the setter methods to add the car info.
+     * Dont' need to use the class methods to add the car info.
      */
 
     Car car_2("Volkswagen Vento", "black", "2017", "Diesel");

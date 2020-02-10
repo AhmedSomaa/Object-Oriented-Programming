@@ -32,9 +32,9 @@ ___
 
 `💡 Initialization List`
 
-- Initialization List is used in initializing the data members of a class. The list of members to be initialized is indicated with constructor as a comma-separated list followed by a colon.
+- __Initialization List__ is used in initializing the data members of a class. The list of members to be initialized is indicated with constructor as a comma-separated list followed by a colon.
 
-> Initialization list is more efficient in initializing class data members.
+> Initialization list is more _efficient_ in initializing class data members.
 
 - Initialization lists allow you to choose which constructor is called and what arguments that constructor receives.
 
