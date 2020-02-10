@@ -5,7 +5,6 @@
 /**
  * Empty Constructor.
  * Create a car.
- * @return {Car} An Empty car.
  */
 Car::Car() {}
 
@@ -16,7 +15,6 @@ Car::Car() {}
  * @param {string} color - The car color value.
  * @param {string} makeYear - The year in which the car is manufactured.
  * @param {string} fuelType - The fuel type the car uses.
- * @return {Car} A car with the overloaded arguments.
  */
 Car::Car(std::string model, std::string color, std::string makeYear, std::string fuelType) {
     this->model = model;
