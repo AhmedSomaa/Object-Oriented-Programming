@@ -13,7 +13,7 @@ public:
     /* Overloading the ADD Method */
     int add(int firstNumber, int secondNumber);
     int add(int firstNumber, int secondNumber, int thirdNumber);
-    float add(float firstNumber, float secondNumber);
+    float add(float firstFloat, float secondFloat);
     std::string add(std::string firstString, std::string secondString);
 };
 

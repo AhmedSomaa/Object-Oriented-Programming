@@ -33,8 +33,8 @@ int Calculator::add(int firstNumber, int secondNumber, int thirdNumber) {
  * @param {float} secondNumber - Second Number to add.
  * @return {float} the Sum of the Two Numbers.
  */
-float Calculator::add(float firstNumber, float secondNumber) {
-    return (firstNumber + secondNumber);
+float Calculator::add(float firstFloat, float secondFloat) {
+    return (firstFloat + secondFloat);
 }
 
 /*
