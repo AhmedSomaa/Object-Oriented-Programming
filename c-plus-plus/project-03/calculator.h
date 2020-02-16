@@ -2,8 +2,19 @@
 #define CALCULATOR_H
 
 
-class calculator {
+#include <string>
 
+class Calculator {
+public:
+    /* Constructor */
+    Calculator();
+
+    /* Calculator Methods*/
+    /* Overloading the ADD Method */
+    int add(int firstNumber, int secondNumber);
+    int add(int firstNumber, int secondNumber, int thirdNumber);
+    float add(float firstNumber, float secondNumber);
+    std::string add(std::string firstString, std::string secondString);
 };
 
 
