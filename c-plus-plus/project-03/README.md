@@ -16,7 +16,7 @@
 
 - __Method Signature__ is (Number of Args, types of Args, order of Args).
 
-_ __Method Overloading__ is important because sometimes you need several different ways to perform the same operation. For example, in a calculator addition, you can add integers, floats, strings...etc. In addition, you can add two numbers , three or N numbers. So you would have an _add_ method and overloads it with different signatures to do whatever you want.
+- __Method Overloading__ is important because sometimes you need several different ways to perform the same operation. For example, in a calculator addition, you can add integers, floats, strings...etc. In addition, you can add two numbers , three or N numbers. So you would have an _add_ method and overloads it with different signatures to do whatever you want.
 
 ---
 ## 🔖 Material
